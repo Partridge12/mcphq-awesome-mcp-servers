@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 325 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 326 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1612,6 +1612,18 @@ Read Mailcoach email lists, subscribers, campaigns, statistics and transactional
 - Tags: email-marketing, newsletters, campaigns, oauth
 - Category: Communication and Productivity
 - Streamable HTTP endpoint: https://mcp.mailcoach.app
+
+### MakeAIVideo
+
+Official MakeAIVideo server for creating short-form AI videos with voiceover, scenes, captions and music, then posting them to connected social accounts.
+
+- URL: https://github.com/makeaivideo-ai/mcp
+- Language: TypeScript
+- Provider: MakeAIVideo
+- Official: yes
+- Tags: video, video-generation, social-media, remote
+- Category: Communication and Productivity
+- Streamable HTTP endpoint: https://mcp.makeaivideo.ai
 
 ### Microsoft Teams MCP Server
 
